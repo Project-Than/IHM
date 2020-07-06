@@ -1,0 +1,1 @@
+Afin de lancer la fenêtre, il vous suffit simplement de démarrer le fichier TestModeleMeteo.java depuis Eclipse.
